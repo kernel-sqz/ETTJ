@@ -4,7 +4,9 @@ Convert excel table to json file. I've found this usefull to validate data in my
 ---
 
 ## Instalation
->pypi.org soon
+```
+pip install ETTJ-excel2json
+```
 ## How to use?
 Program takes a few arguments:
 ### positional arguments:
